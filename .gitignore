@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+交易明细*/
+*.xlsx
+*.xls
+*.csv
+!tests/wechat-sample.csv
+生活账本-*.json
